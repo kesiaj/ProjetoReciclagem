@@ -31,31 +31,23 @@ Através de informações, ações práticas e conteúdo educativo, o projeto bu
 
 ## 🎯 Objetivos
 
-* Incentivar a reciclagem industrial
-* Promover práticas sustentáveis
-* Reduzir o desperdício de materiais
-* Desenvolver habilidades em programação web
-* Criar um projeto tecnológico com impacto ambiental positivo
+- Incentivar a reciclagem industrial
+- Promover práticas sustentáveis
+- Reduzir o desperdício de materiais
+- Desenvolver habilidades em programação web
+- Criar um projeto tecnológico com impacto ambiental positivo
 
 ---
 
 ## 💡 Funcionalidades do Site
 
-* ♻️ Página inicial sobre reciclagem industrial
-* 📖 Página explicando o projeto e sua missão
-* 🌱 Página com ações sustentáveis
-* 📝 Formulário de participação
-* 🔗 Navegação entre páginas
-* 🎨 Layout estilizado com CSS
-* ⚡ Interatividade com JavaScript
-
----
-
-## 👩‍💻 Equipe
-
-| Integrante | Função              |
-| ---------- | ------------------- |
-| Alexandre  | Desenvolvimento Web |
+- ♻️ Página inicial sobre reciclagem industrial
+- 📖 Página explicando o projeto e sua missão
+- 🌱 Página com ações sustentáveis
+- 📝 Formulário de participação
+- 🔗 Navegação entre páginas
+- 🎨 Layout estilizado com CSS
+- ⚡ Interatividade com JavaScript
 
 ---
 
@@ -86,21 +78,21 @@ ProjetoReciclagem/
 
 ## ✅ Progresso do Projeto
 
-* [x] Criar repositório
-* [x] Desenvolver páginas HTML
-* [x] Estilizar com CSS
-* [x] Adicionar JavaScript
-* [x] Criar README
-* [x] Publicar no GitHub
+- [x] Criar repositório
+- [x] Desenvolver páginas HTML
+- [x] Estilizar com CSS
+- [x] Adicionar JavaScript
+- [x] Criar README
+- [x] Publicar no GitHub
 
 ---
 
-## 🌱 Mensagem da Equipe
+## 🌱 Mensagem do Projeto
 
 > "Reciclar hoje é construir um futuro mais sustentável para todos." ♻️
 
 ---
 
 <p align="center">
-  Desenvolvido para a Liga STEAM / ArcelorMittal 💚
+  Desenvolvido para o Projeto Integrador da Liga STEAM / ArcelorMittal 💚
 </p>
