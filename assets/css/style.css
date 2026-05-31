@@ -97,6 +97,17 @@ h1 {
     margin: 0 0 10px;
 }
 
+/* Subtítulos do cabeçalho */
+
+header p {
+
+    color: #081c15;
+
+    font-size: 1.1rem;
+
+    font-weight: 600;
+}
+
 /* Main */
 
 .container-central {
@@ -278,8 +289,6 @@ span {
 
     margin: 16px;
 }
-
-
 
 .reciclagem {
 
